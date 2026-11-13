@@ -1,0 +1,35 @@
+- model_name: wamv_1
+  model_type: wam-v
+  position:
+    xyz: [45.0, 0.0, 0.0]
+    rpy: [0.0, 0.0, 2.87979326579]
+
+- model_name: wamv_2
+  model_type: wam-v
+  position:
+    xyz: [22.5, 38.97114317, 0.0]
+    rpy: [0.0, 0.0, -2.35619449019]
+
+- model_name: wamv_3
+  model_type: wam-v
+  position:
+    xyz: [-22.5, 38.97114317, 0.0]
+    rpy: [0.0, 0.0, -1.30899693900]
+
+- model_name: wamv_4
+  model_type: wam-v
+  position:
+    xyz: [-45.0, 0.0, 0.0]
+    rpy: [0.0, 0.0, -0.26179938780]
+
+- model_name: wamv_5
+  model_type: wam-v
+  position:
+    xyz: [-22.5, -38.97114317, 0.0]
+    rpy: [0.0, 0.0, 0.78539816340]
+
+- model_name: wamv_6
+  model_type: wam-v
+  position:
+    xyz: [22.5, -38.97114317, 0.0]
+    rpy: [0.0, 0.0, 1.83259571459]
