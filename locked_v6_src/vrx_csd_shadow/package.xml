@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>vrx_csd_shadow</name>
+  <version>0.1.0</version>
+  <description>Read-only VRX shadow inference for the strict conditional counterfactual graph.</description>
+  <maintainer email="hzh@example.com">hzh</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>gz-plugin2</depend>
+  <depend>gz-sim8</depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>ros_gz_bridge</exec_depend>
+  <exec_depend>python3-numpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>tf2_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

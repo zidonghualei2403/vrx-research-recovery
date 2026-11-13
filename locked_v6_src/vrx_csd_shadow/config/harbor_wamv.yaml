@@ -1,0 +1,18 @@
+- model_name: wamv_1
+  model_type: wam-v
+  position: {xyz: [-48.0, -22.0, 0.0], rpy: [0.0, 0.0, 0.42976228]}
+- model_name: wamv_2
+  model_type: wam-v
+  position: {xyz: [-48.0, 22.0, 0.0], rpy: [0.0, 0.0, -0.42976228]}
+- model_name: wamv_3
+  model_type: wam-v
+  position: {xyz: [48.0, -8.0, 0.0], rpy: [0.0, 0.0, 2.97644398]}
+- model_name: wamv_4
+  model_type: wam-v
+  position: {xyz: [48.0, 8.0, 0.0], rpy: [0.0, 0.0, -2.97644398]}
+- model_name: wamv_5
+  model_type: wam-v
+  position: {xyz: [-25.0, -20.0, 0.0], rpy: [0.0, 0.0, 1.57079633]}
+- model_name: wamv_6
+  model_type: wam-v
+  position: {xyz: [25.0, 20.0, 0.0], rpy: [0.0, 0.0, -1.57079633]}

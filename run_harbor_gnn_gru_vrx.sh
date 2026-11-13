@@ -56,7 +56,8 @@ LOG_DIR="$ROOT/results/harbor_${METHOD}_${SEA_STATE}_seed${SEED}_${STAMP}"
 RUNTIME_WORLD="$LOG_DIR/csd_harbor.sdf"
 
 source /opt/ros/jazzy/setup.bash
-source /home/hzh/桌面/vrx_ws/install/setup.bash
+VRX_WS_INSTALL="${VRX_WS_INSTALL:-$HOME/vrx_ws/install}"
+source "$VRX_WS_INSTALL/setup.bash"
 # VRX generates per-vessel URDF files inside the vrx_gazebo package at launch.
 # Use a project-local package overlay when the original install is read-only.
 VRX_MUTABLE_OVERLAY="${VRX_MUTABLE_OVERLAY:-$ROOT/vrx_mutable_overlay_v1}"
