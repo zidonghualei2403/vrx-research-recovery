@@ -1,0 +1,2 @@
+sea_state,seed,wave_gain,wind_speed_mps,environment_uncertainty,stable_shuttles,gz_partition,ros_domain_id
+medium_wind_wave,20261110,0.85,14.0,0.715336,true,vrx_harbor_20261109_145056_118477,177

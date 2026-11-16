@@ -1,0 +1,3 @@
+variant=C123 C119 scalar SAT plus cached patrol rollout
+original_driver_sha256=266ba9515bf3555a68a392ad72f0e6223d4ebb5755399bcb3e8839527a958733
+optimized_driver_sha256=efe11b6df499742a1740c80ce6c83b4815675392304de57912cb9fe9fbdf16d3

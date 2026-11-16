@@ -1,0 +1,3 @@
+variant=V6 scalar SAT local diagnostic
+original_driver_sha=e4dfd79a85e94d899f35786487888f16732472037a0cb4e604843842555c25c9
+active_driver_sha=240c62f19d91ee7e233c520ee41248954c466f5e605b217bb19381f826e9df9d
