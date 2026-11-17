@@ -1,0 +1,16 @@
+sea_state,method,runs,all_six_arrived,all_six_arrival_rate,mean_mission_arrival_s,sampled_center_overlap_free,sampled_oriented_hull_overlap_free,minimum_center_distance_m
+calm,distance_star,5,5,1.0,84.66000003814698,5,5,6.880452383382941
+calm,risk_star,5,1,0.2,85.19999980926514,3,2,4.547309534219107
+calm,conditional_csd,5,4,0.8,80.09974998235703,4,4,4.74154932485153
+calm,learned_gnn_gru_graph_shield,5,5,1.0,70.44020009040833,5,5,14.403067624641634
+calm,gnn_gru_residual_sac,5,5,1.0,74.73999996185303,5,5,11.26319350805978
+medium_wind_wave,distance_star,5,5,1.0,94.47979998588562,5,5,7.8708556078738985
+medium_wind_wave,risk_star,5,5,1.0,104.32039999961853,5,5,6.580663568364515
+medium_wind_wave,conditional_csd,5,5,1.0,91.71960000991821,5,5,7.82689274233396
+medium_wind_wave,learned_gnn_gru_graph_shield,5,5,1.0,133.75959997177125,5,5,8.331138277570478
+medium_wind_wave,gnn_gru_residual_sac,5,5,1.0,142.80080003738402,5,5,7.825345998740247
+strong_wind_wave,distance_star,5,5,1.0,97.58020000457763,5,5,8.112830886934596
+strong_wind_wave,risk_star,5,5,1.0,103.95920000076293,5,5,8.041350943715864
+strong_wind_wave,conditional_csd,5,5,1.0,96.52020006179809,5,5,7.970441518510753
+strong_wind_wave,learned_gnn_gru_graph_shield,5,3,0.6,176.16699997584024,4,3,3.1448887102725904
+strong_wind_wave,gnn_gru_residual_sac,5,3,0.6,205.5,3,2,3.7033505100111745
