@@ -1,0 +1,65 @@
+{
+  "csv": "/home/hzh/Documents/Codex/2026-08-13/hao/vrx_harbor_sac_v6_aligned_ws_v1/results/harbor_gnn_gru_sac_calm_seed20261117_20261108_132128/six_vessel_driver.csv",
+  "six_vessels_valid": true,
+  "sample_counts": {
+    "wamv_1": 768,
+    "wamv_2": 768,
+    "wamv_3": 768,
+    "wamv_4": 768,
+    "wamv_5": 768,
+    "wamv_6": 768
+  },
+  "arrival_count": 3,
+  "residence_count": 3,
+  "arrival_times_s": {
+    "wamv_1": 95.46399998664856,
+    "wamv_2": 91.91300010681152,
+    "wamv_3": 83.4300000667572,
+    "wamv_4": NaN
+  },
+  "residence_times_s": {
+    "wamv_1": 105.52999997138977,
+    "wamv_2": 101.91300010681152,
+    "wamv_3": 93.77600002288818,
+    "wamv_4": NaN
+  },
+  "fleet_completion_s": NaN,
+  "run_duration_s": 240.10599994659424,
+  "static_rectangles": [
+    [
+      [
+        -11.0,
+        13.0
+      ],
+      [
+        7.0,
+        3.0
+      ]
+    ],
+    [
+      [
+        12.0,
+        -13.0
+      ],
+      [
+        7.0,
+        3.0
+      ]
+    ]
+  ],
+  "vessel_overlap_frames": 0,
+  "wall_overlap_frames": 0,
+  "minimum_vessel_clearance_m": 0.5068685959812922,
+  "minimum_wall_clearance_m": 2.4151309061129487,
+  "distant_stalls_20s": [
+    {
+      "vessel": "wamv_4",
+      "start_time": 1794115385.448,
+      "end_time": 1794115405.359,
+      "displacement_m": 0.8817760486654199,
+      "goal_distance_m": 52.437
+    }
+  ],
+  "fleet_time_limit_s": 130.0,
+  "passed": false
+}
